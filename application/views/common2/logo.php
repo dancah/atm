@@ -1,0 +1,1 @@
+<link rel="icon" type="image/jpg" sizes="96x96" href="<?php echo base_url();?>/assets/build/images/logo.png">
